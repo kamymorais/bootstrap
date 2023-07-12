@@ -1,0 +1,35 @@
+nav ul li a{
+    font-weight: bold!important;
+}
+
+nav ul li a:hover{
+    margin-top: -3px;
+    /*color: blue!important;*/
+}
+
+.card-header{
+    color: #FFF;
+}
+
+.bloco-oferecemos{
+color: #FFF;
+
+}
+
+.oferecemos i{
+color:cadetblue;
+}
+
+.bg-dark {
+    color: #FFF;
+}
+
+.meu_button{
+    background-color:black !important;
+    color: #FFF !important;  
+}
+
+.collapsed {
+    background-color:#FFF !important;
+    color: black !important;
+}
