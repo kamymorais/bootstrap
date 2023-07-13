@@ -1,0 +1,33 @@
+.card{
+    color: aliceblue;
+}
+
+.card-body {
+    color: black;
+}
+
+.bloco-oferecemos{
+    color: white;
+}
+
+.oferecemos i{
+    color:cadetblue;
+    }
+    
+    .bg-dark {
+        color: #FFF;
+    }
+    
+    .meu_button{
+        background-color:black !important;
+        color: #FFF !important;  
+    }
+    
+    .collapsed {
+        background-color:#FFF !important;
+        color: black !important;
+    }
+
+ .c{
+     color: #FFF;
+ }
